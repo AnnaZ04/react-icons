@@ -1,3 +1,5 @@
+import { toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 import { useState, useMemo, useCallback } from "react";
 import { FaPlus } from "react-icons/fa";
 
